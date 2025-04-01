@@ -13,6 +13,11 @@
 /* import theme modules */
 @import url("https://refact0r.github.io/midnight-discord/build/midnight.css");
 
+span::after {
+  content: " arf arf arf arf arf";
+  color: darkgrey;
+}
+
 body {
   /* font, change to '' for default discord font */
   --font: "figtree";
