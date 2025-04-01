@@ -14,7 +14,7 @@
 @import url("https://refact0r.github.io/midnight-discord/build/midnight.css");
 
 span::after {
-  content: " arf arf arf arf arf";
+  content: " arf arf";
   color: darkgrey;
 }
 
