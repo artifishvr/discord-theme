@@ -183,15 +183,15 @@ body {
   --purple-5: hsl(311, 20%, 53%);
 }
 
-[fill="#40a258"] {
+[fill="#43a25a"] {
   fill: var(--online) !important;
 }
 
-[fill="#d83a41"] {
+[fill="#d83a42"] {
   fill: var(--dnd) !important;
 }
 
-[fill="#cc954c"] {
+[fill="#ca9654"] {
   fill: var(--idle) !important;
 }
 
