@@ -182,19 +182,3 @@ body {
   --purple-4: hsl(311, 20%, 58%);
   --purple-5: hsl(311, 20%, 53%);
 }
-
-[fill="#43a25a"] {
-  fill: var(--online) !important;
-}
-
-[fill="#d83a42"] {
-  fill: var(--dnd) !important;
-}
-
-[fill="#ca9654"] {
-  fill: var(--idle) !important;
-}
-
-[fill="#82838b"] {
-  fill: var(--offline) !important;
-}
